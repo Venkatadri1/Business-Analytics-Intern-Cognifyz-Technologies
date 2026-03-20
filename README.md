@@ -156,4 +156,4 @@ Learned data visualization techniques
 
 🔗 Connect with Me
 
-LinkedIn: (Add your link)
+LinkedIn: https://www.linkedin.com/in/venkatadri-5b8a8b27a/
