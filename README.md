@@ -1,3 +1,4 @@
+https://app.powerbi.com/groups/me/reports/ebc498de-2468-452e-8318-faed12aa6519/419b5d3d4c78ff6fbd65?experience=power-bi
 Mutual Funds Data Analysis – Business Analytics Internship
 🏢 About the Internship
 
